@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>	
+	<quest name="Wrath of the Emperor" startstorageid="12350" startstoragevalue="1">
+		 <mission name="Mission 01: Catering the Lions Den" storageid="12351" startvalue="1" endvalue="1">
+			 <missionstate id="1" description="You must bring Zalamon 3 nails and a piece of wood so that he can make a Marked Crate for you."/>			
+		 </mission>     
+	</quest>
+</quests>
